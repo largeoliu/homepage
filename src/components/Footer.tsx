@@ -15,7 +15,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
             >
-              ICP备案号：[待定]
+              蜀ICP备2026009671号
             </a>
             <span className="hidden sm:inline">|</span>
             <a
