@@ -11,7 +11,6 @@ export default function Home() {
           </h1>
           <p className="text-xl text-gray-400">
             思考、记录与分享
-          </p>
         </div>
       </div>
       <Footer />
