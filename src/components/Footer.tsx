@@ -27,7 +27,7 @@ const Footer = () => {
               className="hover:text-white transition-colors flex items-center"
             >
               {/* 这里通常会放置一个公安的图标，这里为了简单暂时省略或使用占位 */}
-              公安备案号：申请中
+              公安备案号 申请中
 
             </a>
           </div>
