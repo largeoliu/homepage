@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "网站建设中",
-  description: "本网站正在建设中...",
+  title: "6号的思考",
+  description: "思考、记录与分享",
 };
 
 export default function RootLayout({

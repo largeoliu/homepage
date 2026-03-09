@@ -15,7 +15,9 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
             >
-              ICP备案号：[待定]
+
+              蜀ICP备2026009671号
+
             </a>
             <span className="hidden sm:inline">|</span>
             <a
@@ -25,7 +27,8 @@ const Footer = () => {
               className="hover:text-white transition-colors flex items-center"
             >
               {/* 这里通常会放置一个公安的图标，这里为了简单暂时省略或使用占位 */}
-              公安备案号：[待定]
+              公安备案号：申请中
+
             </a>
           </div>
         </div>
